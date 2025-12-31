@@ -1,3 +1,5 @@
+**Archived**: this repository now lives in [Codeberg](https://codeberg.org/blefebvre/dont_starve_mods).
+
 # Don't Starve Mods
 
 Here is the repository containing all my mods for Klei Entertainment's video game "Don't Starve". This repository is intended to be merged with your `dont-starve/mods` folder in the game's file.
